@@ -1,6 +1,0 @@
-mysql:
-  url: jdbc:mysql://127.0.0.1:3306/test?serverTimezone=UTC
-mail:
-  expireTime: 10
-ipFilter:
-  timesPerMin: 6
